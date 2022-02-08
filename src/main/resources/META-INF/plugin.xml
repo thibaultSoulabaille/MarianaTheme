@@ -7,12 +7,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.thibaultsoulabaille.marianatheme.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.thibaultsoulabaille.marianatheme.services.MyProjectService"/>
+        <themeProvider id="com.github.thibaultsoulabaille.marianatheme" path="/theme/marianatheme.theme.json"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.thibaultsoulabaille.marianatheme.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
-    </applicationListeners>
 </idea-plugin>
