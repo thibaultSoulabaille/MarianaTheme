@@ -217,9 +217,9 @@
     "EditorTabs": {
       "borderColor": "base2",
       "inactiveUnderlineColor": "base2",
-      "underlineColor": "base2",
+      "underlineColor": "lightBlue0",
       "underlinedTabBackground": "base0",
-      "underlinedTabForeground": "white0"
+      "underlinedTabForeground": "White0"
     },
 
     "FileColor": {

@@ -1,6 +1,6 @@
 <scheme name="Mariana Pro Theme" version="1" parent_scheme="Darcula">
   <colors>
-    <option name="CARET_COLOR" value="fbfbfb" />
+    <option name="CARET_COLOR" value="e2e3e4" />
     <option name="CARET_ROW_COLOR" value="3f4a53" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1e22" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="23292e" />
@@ -10,7 +10,7 @@
     <option name="ERROR_HINT" value="505f67" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="3f4a53" />
     <option name="GUTTER_BACKGROUND" value="343d45" />
-    <option name="INDENT_GUIDE" value="edeeee" />
+    <option name="INDENT_GUIDE" value="596167" />
     <option name="INFORMATION_HINT" value="3f4a53" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="505f67" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="505f67" />
@@ -24,16 +24,17 @@
     <option name="QUESTION_HINT" value="496480" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="23292e" />
     <option name="RECENT_LOCATIONS_SELECTION" value="496480" />
-    <option name="RIGHT_MARGIN_COLOR" value="eaedee" />
-    <option name="SELECTED_INDENT_GUIDE" value="edeeee" />
+    <option name="RIGHT_MARGIN_COLOR" value="596167" />
+    <option name="SELECTED_INDENT_GUIDE" value="596167" />
     <option name="SELECTED_TEARLINE_COLOR" value="505f67" />
     <option name="SELECTION_BACKGROUND" value="505f67" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="8c9196" />
     <option name="ScrollBar.hoverThumbColor" value="1d1e22" />
     <option name="ScrollBar.thumbColor" value="23292e" />
-    <option name="VISUAL_INDENT_GUIDE" value="eaedee" />
+    <option name="VISUAL_INDENT_GUIDE" value="596167" />
     <option name="WHITESPACES" value="e2e3e4" />
+    <option name="TEARLINE_COLOR" value="596167" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -73,7 +74,7 @@
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
-        <option name="FOREGROUND" value="efefef" />
+        <option name="FOREGROUND" value="e2e3e4" />
       </value>
     </option>
     <option name="BREADCRUMBS_DEFAULT">
@@ -563,6 +564,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="e2e3e4" />
         <option name="BACKGROUND" value="647b6b" />
       </value>
     </option>
@@ -600,9 +602,10 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="1d1e22" />
-        <option name="BACKGROUND" value="f8b662" />
-        <option name="ERROR_STRIPE_COLOR" value="647b6b" />
+        <option name="FOREGROUND" value="e2e3e4" />
+        <option name="BACKGROUND" value="496480" />
+        <option name="EFFECT_COLOR" value="8c9196" />
+        <option name="ERROR_STRIPE_COLOR" value="5eb2b2" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -645,11 +648,12 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="647b6b" />
-        <option name="ERROR_STRIPE_COLOR" value="647b6b" />
+        <option name="FOREGROUND" value="e2e3e4" />
+        <option name="BACKGROUND" value="505f67" />
+        <option name="EFFECT_COLOR" value="8c9196" />
+        <option name="ERROR_STRIPE_COLOR" value="e9c98a" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
