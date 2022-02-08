@@ -1,1 +1,1 @@
-rootProject.name = "MarianaTheme"
+rootProject.name = "Mariana Pro Theme"

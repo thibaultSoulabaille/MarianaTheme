@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# MarianaTheme Changelog
+# Mariana Pro Theme Changelog
 
 ## [Unreleased]
 
