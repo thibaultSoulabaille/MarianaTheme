@@ -696,7 +696,9 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e2e3e4" />
+      </value>
     </option>
     <option name="JS.MODULE_NAME">
       <value>
@@ -1769,7 +1771,9 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e2e3e4" />
+      </value>
     </option>
     <option name="JS.MODULE_NAME">
       <value>
