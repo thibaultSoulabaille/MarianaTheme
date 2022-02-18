@@ -15,7 +15,7 @@
   <colors>
     <option name="CARET_COLOR" value="e2e3e4" />
     <option name="CARET_ROW_COLOR" value="3f4a53" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d1e22" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="23292e" />
     <option name="DOCUMENTATION_COLOR" value="505f67" />
     <option name="DOC_COMMENT_GUIDE" value="" />
@@ -1925,7 +1925,9 @@
       </value>
     </option>
     <option name="PY.FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5eb2b2" />
+      </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
@@ -1938,7 +1940,9 @@
       </value>
     </option>
     <option name="PY.METHOD_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5eb2b2" />
+      </value>
     </option>
     <option name="PY.PARENTHS">
       <value>
@@ -3165,6 +3169,11 @@
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="5eb2b2" />
       </value>
     </option>
     <option name="PY.PARENTHS">
