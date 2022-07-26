@@ -3457,5 +3457,79 @@
         <option name="FOREGROUND" value="5eb2b2" />
       </value>
     </option>
+
+    <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_EMPHASIZED">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="a2cc9d" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_TYPE_ELEMENT">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_DEPENDENT_NAME_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5eb2b2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="5eb2b2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a2cc9d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ec696e" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ESCAPE_CHARACTER_2">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="ReSharper.ST_SUSPICIOUS_TEXT">
+      <value>
+        <option name="EFFECT_COLOR" value="6598ca" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+
   </attributes>
 </scheme>
