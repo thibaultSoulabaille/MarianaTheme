@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-  <version>0.0.5</version>
-  <idea-version since-build="203" until-build="222.*" />
+  <version>22.0.0</version>
+  <idea-version since-build="203" until-build="223.*" />
   <id>com.github.thibaultsoulabaille.marianatheme</id>
   <name>Mariana Pro Theme</name>
   <description>&lt;p&gt;A complete color theme for IntelliJ IDE based on Sublime Text's Mariana Syntax and Adaptive UI.&lt;/p&gt;</description>
