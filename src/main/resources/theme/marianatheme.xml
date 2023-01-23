@@ -126,13 +126,13 @@
     </option>
     <option name="BASH.SHEBANG">
       <value>
-        <option name="FOREGROUND" value="5eb2b2" />
+        <option name="FOREGROUND" value="ec696e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BASH.SUBSHELL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="a2cc9d" />
+        <option name="FOREGROUND" value="5eb2b2" />
       </value>
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -158,57 +158,6 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f8b662" />
-      </value>
-    </option>
-    <option name="CODE_LENS_BORDER_COLOR">
-      <value>
-        <option name="EFFECT_COLOR" value="8c9196" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="505f67" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6598ca" />
-        <option name="BACKGROUND" value="394149" />
-      </value>
-    </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="595959" />
-        <option name="BACKGROUND" value="394149" />
-      </value>
-    </option>
-    <option name="CONSOLE_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="CONSOLE_USER_INPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-        <option name="BACKGROUND" value="23292e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -1121,154 +1070,9 @@
     <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="91afcc" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-      </value>
-    </option>
-    <option name="BAD_CHARACTER">
-      <value>
-        <option name="BACKGROUND" value="62484f" />
-        <option name="EFFECT_COLOR" value="7a1414" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.BRACE">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.BRACKET">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.CONDITIONAL">
-      <value>
-        <option name="FOREGROUND" value="f88662" />
-      </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="6598ca" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.PAREN">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.SHEBANG">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.SUBSHELL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="a2cc9d" />
-      </value>
-    </option>
-    <option name="BOOKMARKS_ATTRIBUTES">
-      <value>
-        <option name="ERROR_STRIPE_COLOR" value="e8eff1" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f8b662" />
-      </value>
-    </option>
-    <option name="CODE_LENS_BORDER_COLOR">
-      <value>
-        <option name="EFFECT_COLOR" value="8c9196" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="505f67" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLUE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6598ca" />
-        <option name="BACKGROUND" value="394149" />
-      </value>
-    </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="595959" />
-        <option name="BACKGROUND" value="394149" />
-      </value>
-    </option>
-    <option name="CONSOLE_ERROR_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="CONSOLE_USER_INPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-        <option name="BACKGROUND" value="23292e" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -2122,110 +1926,9 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="91afcc" />
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-      </value>
-    </option>
-    <option name="BAD_CHARACTER">
-      <value>
-        <option name="BACKGROUND" value="62484f" />
-        <option name="EFFECT_COLOR" value="7a1414" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.BRACE">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.BRACKET">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.CONDITIONAL">
-      <value>
-        <option name="FOREGROUND" value="f88662" />
-      </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="6598ca" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.HERE_DOC">
-      <value>
-        <option name="FOREGROUND" value="a2cc9d" />
-        <option name="EFFECT_COLOR" value="a2cc9d" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.PAREN">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
-    <option name="BASH.SHEBANG">
-      <value>
-        <option name="FOREGROUND" value="ec696e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.SUBSHELL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="5eb2b2" />
-      </value>
-    </option>
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="a2cc9d" />
-      </value>
-    </option>
-    <option name="BOOKMARKS_ATTRIBUTES">
-      <value>
-        <option name="ERROR_STRIPE_COLOR" value="e8eff1" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="e2e3e4" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_INACTIVE">
-      <value>
-        <option name="FOREGROUND" value="efefef" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
@@ -3528,6 +3231,186 @@
       <value>
         <option name="EFFECT_COLOR" value="6598ca" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+
+    <option name="GO_BUILTIN_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="ec696e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ec696e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_COLON">
+      <value>
+        <option name="FOREGROUND" value="8c9196" />
+      </value>
+    </option>
+    <option name="GO_COMMENT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="91afcc" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_COMMENT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="91afcc" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_EXPORTED_STRUCT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_FUNCTION_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="BACKGROUND" value="62484f" />
+        <option name="EFFECT_COLOR" value="7a1414" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_LOCAL_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_INTERFACE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_STRUCT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_LOCAL_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_METHOD_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_CONSTANT">
+      <value />
+    </option>
+    <option name="GO_PACKAGE_LOCAL_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_VARIABLE_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_SHADOWING_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="GO_STRUCT_EXPORTED_MEMBER_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_LOCAL_MEMBER_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="GO_TAG_KEY">
+      <value>
+        <option name="FOREGROUND" value="91afcc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_TAG_TEXT">
+      <value>
+        <option name="FOREGROUND" value="a2cc9d" />
+      </value>
+    </option>
+    <option name="GO_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="c393c3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_TYPE_SPECIFICATION">
+      <value>
+        <option name="FOREGROUND" value="f8b662" />
       </value>
     </option>
 
