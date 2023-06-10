@@ -6,10 +6,9 @@
 
   "colors": {
     "transparent": "#00000000",
-
-    "base0": "#343D46",
-    "base1": "#23292e",
-    "base2": "#1d1e22",
+    "base0": "#303840",
+    "base1": "#1d2227",
+    "base2": "#181c21",
     "highlight0": "#d0f4ff30",
     "highlight1": "#d0f4ff14",
     "highlight2": "#d0f4ff07",
@@ -132,7 +131,6 @@
         "nonEditableBackground": "base2"
       },
       "background": "base2",
-      "disabledBackground": "base1",
       "disabledForeground": "white1",
       "foreground": "white0",
       "modifiedItemForeground": "white0",
@@ -399,8 +397,7 @@
         "updateForeground": "blue1"
       },
       "SearchField": {
-        "background": "highlight1",
-        "borderColor": "white1"
+        "background": "highlight1"
       },
       "SectionHeader": {
         "background": "base1",
@@ -533,8 +530,7 @@
     },
 
     "StatusBar": {
-      "borderColor": "base1",
-      "hoverBackground": "highlight2"
+      "borderColor": "base1"
     },
 
     "TabbedPane": {
