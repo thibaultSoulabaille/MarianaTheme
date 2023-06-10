@@ -1,14 +1,14 @@
 <scheme name="Mariana Pro Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-10T18:05:46</property>
-    <property name="ide">idea</property>
+    <property name="created">2023-06-10T18:29:26</property>
+    <property name="ide">Python</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-10T15:12:53</property>
-    <property name="originalScheme">_@user_Dark</property>
+    <property name="modified">2023-06-10T18:29:36</property>
+    <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <colors>
