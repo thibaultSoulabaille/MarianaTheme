@@ -1,10 +1,10 @@
 <scheme name="Mariana Pro Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-11T10:33:29</property>
-    <property name="ide">CLion</property>
-    <property name="ideVersion">2023.1.3.0.0</property>
-    <property name="modified">2023-06-11T10:33:38</property>
+    <property name="created">2023-06-11T10:49:31</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2023.1.2.0.0</property>
+    <property name="modified">2023-06-11T10:49:40</property>
     <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1326,6 +1326,64 @@
         <option name="FOREGROUND" value="ea5f66" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="6598cb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="c494c5" />
+      </value>
+    </option>
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="ea5f66" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="6598cb" />
+      </value>
+    </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f7ad57" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_FIELD">
+      <value />
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_THIS_VAR">
+      <value>
+        <option name="FOREGROUND" value="ea5f66" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY" baseAttributes="" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
@@ -1380,7 +1438,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="Parentheses">
       <value>
         <option name="FOREGROUND" value="5fb3b3" />
@@ -1489,6 +1546,11 @@
       <value>
         <option name="BACKGROUND" value="4c5d57" />
         <option name="ERROR_STRIPE_COLOR" value="a1cb9c" />
+      </value>
+    </option>
+    <option name="SMARTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
       </value>
     </option>
     <option name="SQL_PROCEDURE">
@@ -1604,6 +1666,11 @@
     <option name="TS.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="TWIG_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
