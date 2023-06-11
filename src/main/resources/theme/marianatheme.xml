@@ -1,10 +1,10 @@
 <scheme name="Mariana Pro Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-11T10:49:31</property>
-    <property name="ide">PhpStorm</property>
+    <property name="created">2023-06-11T11:29:06</property>
+    <property name="ide">Rider</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-11T10:49:40</property>
+    <property name="modified">2023-06-11T11:29:15</property>
     <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -891,6 +891,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JADE_JS_BLOCK">
+      <value />
+    </option>
     <option name="JADE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c494c4" />
@@ -1337,7 +1340,6 @@
         <option name="FOREGROUND" value="c494c5" />
       </value>
     </option>
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="ea5f66" />
@@ -1378,16 +1380,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PHP_VAR_VAR">
       <value>
         <option name="FOREGROUND" value="5fb3b4" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="d6dce8" />
@@ -1531,6 +1532,132 @@
         <option name="FOREGROUND" value="f7ad56" />
       </value>
     </option>
+    <option name="ReSharper.ASP_NET_RUN_AT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ea5f65" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_ADDITIONAL_INFORMATION">
+      <value>
+        <option name="FOREGROUND" value="a5abb8" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_INTERNAL_PRIVATE">
+      <value>
+        <option name="FOREGROUND" value="838a94" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_EMPHASIZED">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="98c593" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_METADATA_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="a5abb8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.ASSEMBLY_EXPLORER_TYPE_ELEMENT">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_DEPENDENT_NAME_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_ENUM_ENUMERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_GLOBAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_PREPROCESSOR_MACRO_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="ReSharper.CPP_PREPROCESSOR_MACRO_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_BUILTIN_TYPE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="98c593" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ea5f65" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ea5f65" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6598ca" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.IL_INSTRUCTION">
+      <value>
+        <option name="FOREGROUND" value="ea5f65" />
+      </value>
+    </option>
+    <option name="ReSharper.IL_VIEWER_SYNCHRONIZATION">
+      <value>
+        <option name="BACKGROUND" value="425a74" />
+      </value>
+    </option>
+    <option name="ReSharper.OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5fb3b3" />
+      </value>
+    </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
@@ -1678,6 +1805,41 @@
       <value>
         <option name="EFFECT_COLOR" value="98c593" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="UNITY_EXPENSIVE_CAMERA_MAIN_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="f7ad56" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_EXPENSIVE_METHOD_INVOCATION">
+      <value>
+        <option name="EFFECT_COLOR" value="f7ad56" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_EXPENSIVE_NULL_COMPARISON">
+      <value>
+        <option name="EFFECT_COLOR" value="f7ad56" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_INEFFICIENT_MULTIDIMENSIONAL_ARRAY_USAGE">
+      <value>
+        <option name="EFFECT_COLOR" value="f7ad56" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_INEFFICIENT_MULTIPLICATION_ORDER">
+      <value>
+        <option name="EFFECT_COLOR" value="f7ad56" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="UNITY_PERFORMANCE_CRITICAL_LINE_MARKER">
+      <value>
+        <option name="BACKGROUND" value="655b4c" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
