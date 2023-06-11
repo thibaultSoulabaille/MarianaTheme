@@ -1,10 +1,10 @@
 <scheme name="Mariana Pro Theme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-10T18:29:26</property>
-    <property name="ide">Python</property>
+    <property name="created">2023-06-11T09:39:58</property>
+    <property name="ide">idea</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-10T18:29:36</property>
+    <property name="modified">2023-06-11T09:40:09</property>
     <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -659,7 +659,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BUILTIN_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ea5f66" />
@@ -879,7 +878,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d6dce7" />
@@ -902,7 +900,6 @@
         <option name="FOREGROUND" value="f77a56" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="ea5f65" />
@@ -1015,7 +1012,7 @@
         <option name="BACKGROUND" value="3e4a44" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="4c5d57" />
@@ -1232,10 +1229,10 @@
         <option name="FOREGROUND" value="bec3ce" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="d6dce8" />
@@ -1324,13 +1321,54 @@
         <option name="FOREGROUND" value="f77a57" />
       </value>
     </option>
+    <option name="RMARKDOWN_CHUNK">
+      <value>
+        <option name="BACKGROUND" value="1d2228" />
+      </value>
+    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f8b662" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="R_CLOSURE">
+      <value>
+        <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="R_FIELD">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
+      </value>
+    </option>
+    <option name="R_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="6598cb" />
+      </value>
+    </option>
+    <option name="R_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="R_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
+      </value>
+    </option>
+    <option name="R_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f7ad57" />
+      </value>
+    </option>
+    <option name="R_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f7ad56" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="6598cb" />
