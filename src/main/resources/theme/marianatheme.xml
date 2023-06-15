@@ -1,16 +1,11 @@
 <scheme name="Mariana Pro Theme" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-11T11:29:06</property>
-    <property name="ide">Rider</property>
+    <property name="created">2023-06-11T15:08:32</property>
+    <property name="ide">Ruby</property>
     <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-11T11:29:15</property>
+    <property name="modified">2023-06-11T15:08:42</property>
     <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
     <option name="ANNOTATIONS_COLOR" value="8d9199" />
@@ -104,7 +99,7 @@
         <option name="FOREGROUND" value="f7ad56" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c494c4" />
@@ -328,7 +323,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="f77a56" />
@@ -777,6 +772,25 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HAML_CLASS" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_ID" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ea5f66" />
+      </value>
+    </option>
+    <option name="HAML_TEXT">
+      <value>
+        <option name="FOREGROUND" value="98c594" />
+      </value>
+    </option>
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="c494c4" />
@@ -827,7 +841,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="838a94" />
@@ -956,7 +970,7 @@
         <option name="FOREGROUND" value="6598ca" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
       <value>
         <option name="FOREGROUND" value="d6dce8" />
@@ -1490,6 +1504,99 @@
         <option name="BACKGROUND" value="1d2228" />
       </value>
     </option>
+    <option name="RUBY_COLON">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
+      </value>
+    </option>
+    <option name="RUBY_EXPR_IN_STRING">
+      <value>
+        <option name="FOREGROUND" value="fdfdfe" />
+      </value>
+    </option>
+    <option name="RUBY_GVAR">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
+      </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+      <value>
+        <option name="FOREGROUND" value="a5abb9" />
+      </value>
+    </option>
+    <option name="RUBY_HASH_KEY">
+      <value>
+        <option name="FOREGROUND" value="c494c5" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="98c594" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="ea5f66" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c494c5" />
+      </value>
+    </option>
+    <option name="RUBY_IVAR">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
+      </value>
+    </option>
+    <option name="RUBY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c494c4" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="d6dce7" />
+      </value>
+    </option>
+    <option name="RUBY_NTH_REF">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
+      </value>
+    </option>
+    <option name="RUBY_PARAMDEF_CALL">
+      <value>
+        <option name="FOREGROUND" value="d6dce8" />
+      </value>
+    </option>
+    <option name="RUBY_PARAMETER_ID">
+      <value>
+        <option name="FOREGROUND" value="6598cb" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
+      </value>
+    </option>
+    <option name="RUBY_REGEXP">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="c494c5" />
+      </value>
+    </option>
+    <option name="RUBY_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="c494c5" />
+      </value>
+    </option>
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="f8b662" />
@@ -1657,7 +1764,6 @@
         <option name="FOREGROUND" value="5fb3b3" />
       </value>
     </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
@@ -1673,6 +1779,21 @@
       <value>
         <option name="BACKGROUND" value="4c5d57" />
         <option name="ERROR_STRIPE_COLOR" value="a1cb9c" />
+      </value>
+    </option>
+    <option name="SLIM_TAG">
+      <value>
+        <option name="FOREGROUND" value="ea5f66" />
+      </value>
+    </option>
+    <option name="SLIM_TAG_ATTR_KEY">
+      <value>
+        <option name="FOREGROUND" value="6598cb" />
+      </value>
+    </option>
+    <option name="SLIM_TAG_START">
+      <value>
+        <option name="FOREGROUND" value="5fb3b4" />
       </value>
     </option>
     <option name="SMARTY_IDENTIFIER">
@@ -1720,7 +1841,7 @@
     <option name="Static field">
       <value />
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c494c4" />
@@ -1800,7 +1921,7 @@
         <option name="FOREGROUND" value="d6dce7" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="98c593" />
@@ -1854,10 +1975,10 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="VELOCITY_DIRECTIVE" baseAttributes="" />
-    <option name="VELOCITY_KEYWORD" baseAttributes="" />
-    <option name="VELOCITY_REFERENCE" baseAttributes="" />
-    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="" />
+    <option name="VELOCITY_DIRECTIVE" baseAttributes="JSP_DIRECTIVE_NAME" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="VELOCITY_REFERENCE" baseAttributes="JSP_ATTRIBUTE_NAME" />
+    <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="f8b662" />
@@ -1953,4 +2074,9 @@
       </value>
     </option>
   </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
 </scheme>
